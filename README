@@ -1,0 +1,14 @@
+Projekt iz kolegija Metode i tehnike testiranja programske podrške.
+
+Izabrana stranica za testiranjeje: https://giphy.com/
+
+Projekt je izrađen u IntelliJ IDEA IDE te su napravljeni sljedeći testovi:
+
+1.  Login fail test - test u kojem se pokušalo logirati sa neispravnim podacima
+2.  Login Success test - test u kojem se pokušalo logirati sa ispravnim podacima te se prebaciti na početnu stranicu
+3.  Search test - test u kojem je ispitana funkcionalost pretraživanja gif-ova te odabir jednog od gifa i dodavanja istog u favorite
+4.  Slider test - test u kojem se ispitala funkcionalnost slidera u lijevo i desno na početnoj stranici
+5.  Logout test - test u kojem se pokušalo odjaviti sa stranice
+
+Martin Martin
+
